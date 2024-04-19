@@ -6,6 +6,6 @@ def leap_year():
     elif (año%4)==0 and (año%100!=0):
         print(f"El año {año} es biciesto")
     else :
-        print("El año no es biciesto")
+        print(f"El año {año} no es biciesto")
 
 
