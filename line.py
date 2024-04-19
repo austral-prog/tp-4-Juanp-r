@@ -12,4 +12,4 @@ def line():
     print("El coeficiente B de su ecuación de la recta es:",B)
     print("El coeficiente X1 de su ecuación de la recta es:",X1)
     print("El coeficiente X2 de su ecuación de la recta es:",X2)
-    print (f"\npara la siguiente ecuacion \n\tY= {A}+X+{B}\n\nDados los siguientes puntos:\n\tP1({X1},{Y1})\n\tP2({X2},{X2})\n\nLa distancia entre ellos es: {distancia}")
+    print (f"\npara la siguiente ecuacion \n\tY= {A}+X+{B}\n\nDados los siguientes puntos:\n\tP1 ({X1},{Y1})\n\tP2 ({X2},{X2})\n\nLa distancia entre ellos es: {distancia}")
